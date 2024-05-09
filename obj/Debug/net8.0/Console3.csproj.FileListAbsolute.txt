@@ -1,0 +1,14 @@
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.AssemblyInfoInputs.cache
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.AssemblyInfo.cs
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.csproj.CoreCompileInputs.cache
+C:\Allfiles-Net8\Console3\bin\Debug\net8.0\Console3.exe
+C:\Allfiles-Net8\Console3\bin\Debug\net8.0\Console3.deps.json
+C:\Allfiles-Net8\Console3\bin\Debug\net8.0\Console3.runtimeconfig.json
+C:\Allfiles-Net8\Console3\bin\Debug\net8.0\Console3.dll
+C:\Allfiles-Net8\Console3\bin\Debug\net8.0\Console3.pdb
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.dll
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\refint\Console3.dll
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.pdb
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\Console3.genruntimeconfig.cache
+C:\Allfiles-Net8\Console3\obj\Debug\net8.0\ref\Console3.dll
